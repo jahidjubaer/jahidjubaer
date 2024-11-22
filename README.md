@@ -35,7 +35,7 @@
 
 ### 🌐 Connect with Me:
 - 💼 **[Freelancer Profile](https://www.freelancer.com/u/jahidjubaer)**
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/jahidjubaer)** *(add link here)*
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/jahid-hasan01/)** 
 
 ---
 
