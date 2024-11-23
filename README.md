@@ -23,10 +23,10 @@
 - **Frontend Portfolio (coming soon):** Personal portfolio using React and modern design principles.
 
 #### 🤖 **Data Science**
-- **[MBTI Personality Prediction Model](https://github.com/jahidjubaer/MBTI-Prediction):** Machine learning project predicting MBTI personalities using Python.
+- **[MBTI Personality Prediction Model](https://github.com/jahidjubaer/Data-Science-Python):** 
 
 #### 🔢 **Problem Solving**
-- **[Assiut University Training CF](https://github.com/jahidjubaer/Assiut-University-Training-CF):** Topic-based competitive programming solutions.
+- **[Assiut University Training CF](https://github.com/jahidjubaer/Programming):** Topic-based competitive programming solutions.
 
 ---
 
@@ -62,8 +62,8 @@
 
 ### 🌐 Let's Connect:
 - 💼 **[Freelancer Profile](https://www.freelancer.com/u/jahidjubaer)**  
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/jahidjubaer)** *(add link here)*  
-- 📧 **Email:** jahid.jubaer@example.com *(update to your email)*  
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/jahidhasn-01) 
+- 📧 **Email:** jahidjubaer17@gmail.com *  
 
 ---
 
