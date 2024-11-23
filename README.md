@@ -62,8 +62,8 @@
 
 ### 🌐 Let's Connect:
 - 💼 **[Freelancer Profile](https://www.freelancer.com/u/jahidjubaer)**  
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/jahidhasn-01) 
-- 📧 **Email:** jahidjubaer17@gmail.com *  
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/jahidhasn-01)**
+- 📧 **Email:jahidjubaer17@gmail.com**
 
 ---
 
