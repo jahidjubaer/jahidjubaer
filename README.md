@@ -1,55 +1,75 @@
-<h1 align="center">👋 Hi, I'm Jahid Jubaer</h1>
-<h3 align="center">Aspiring Web Developer | CSE Student | Problem Solver</h3>
+<!-- ===========================================================
+   Profile README – Jahid Jubaer
+   Last updated: 2025‑07‑02
+=========================================================== -->
+
+<h1 align="center">👋 Hi, I'm <span style="color:#0AFFEF">Jahid Jubaer</span></h1>
+<h3 align="center">Aspiring Web Developer • CSE ’26 • Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&width=500&lines=Web+Development+Enthusiast;CSE+Student+%7C+MU%2C+Sylhet;Loves+to+build+and+break+things;Always+learning+new+techs" alt="Typing SVG" />
+  <!-- Typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&width=550&lines=Web+Development+Enthusiast;CSE+Student+%7C+MU%2C+Sylhet;Loves+to+build+and+break+things;Always+learning+new+techs" alt="Typing animation" />
+</p>
+
+<!-- Profile view counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jahidjubaer&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
 
-## 💡 About Me
-
-- 🎓 I'm currently studying **Computer Science & Engineering** at **Metropolitan University, Sylhet** (Expected Graduation: 2026).
-- 🌱 Currently enrolled in the **Programming Hero Web Development Course**.
-- 💻 I enjoy building websites, solving algorithmic problems, and learning modern web technologies.
-- 🛠️ I love both **frontend design** and **backend logic**, working towards becoming a **full-stack developer**.
-- 🎯 My goal is to become a professional developer who creates impactful and user-friendly web applications.
-
----
-
-## 🧰 Tech Stack
-
-- **Languages:** C, C++, Python, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** React.js, Bootstrap, Tailwind (learning)
-- **Tools:** Git & GitHub, VS Code, Chrome DevTools, Firebase (learning)
-- **Problem Solving:** Solved 200+ problems on various online judges
+## 💡 About Me
+- 🎓 **CSE @ Metropolitan University, Sylhet** (Expected 2026)  
+- 🚀 Currently enrolled in the **Programming Hero Web Dev Course**  
+- 💻 Love building websites, solving algorithms, learning modern tech  
+- 🛠️ Passionate about both **frontend creativity** and **backend logic**  
+- 🎯 Goal → become a full‑stack dev who crafts impactful user experiences  
 
 ---
 
-## 🔗 Featured Repositories
+## 🧰 Tech Stack
+<div align="center">
 
-- 🔸 [Web_Hero](https://github.com/jahidjubaer/Web_Hero): All my projects and practice files from Programming Hero's web development course.
-- 🔸 [Assiut-University-Training-CF](https://github.com/jahidjubaer/Assiut-University-Training-CF): Topic-wise Codeforces problem solutions.
-- 🔸 [Development](https://github.com/jahidjubaer/Development): HTML, CSS, JavaScript experiments and boilerplates.
+| Languages | Frontend | Backend / DB | Tools |
+|-----------|----------|--------------|-------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/> |
 
----
-
-## 🏆 Problem Solving Profiles
-
-- 💻 [Codeforces](https://codeforces.com/profile/your_handle)
-- 📘 [LeetCode](https://leetcode.com/your_handle)
-- 🔎 [URI / Beecrowd](https://www.beecrowd.com.br/judge/en/profile/your_id)
-- 👨‍💻 [GitHub](https://github.com/jahidjubaer)
+</div>
 
 ---
 
-## 📫 Connect With Me
-
-- 🔹 **Email:** jahidjubaer@example.com *(replace with your real email)*
-- 🔹 **LinkedIn:** [jahidjubaer](https://linkedin.com/in/jahidjubaer)
-- 🔹 **Portfolio:** Coming soon...
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jahidjubaer&show_icons=true&theme=react&hide_border=true" alt="GitHub stats"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahidjubaer&theme=react&hide_border=true" alt="Streak stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidjubaer&layout=compact&theme=react&hide_border=true" alt="Top languages"/>
+</p>
 
 ---
 
-> “Stay curious. Keep building. And never stop learning.” — Jahid 🔥
+## 🔗 Featured Repositories
+| Repo | What’s inside |
+|------|--------------|
+| **[Web_Hero](https://github.com/jahidjubaer/Web_Hero)** | Projects & practice from Programming Hero |
+| **[Assiut‑University‑Training‑CF](https://github.com/jahidjubaer/Assiut-University-Training-CF)** | Topic‑wise Codeforces solutions |
+| **[Development](https://github.com/jahidjubaer/Development)** | HTML/CSS/JS boilerplates & experiments |
 
+---
+
+## 🏆 Problem Solving Profiles
+- Codeforces → [`Jahid Hasan`](https://codeforces.com/profile/jahidjubaer17)  
+- LeetCode → [`Jahid Hasan`](https://leetcode.com/⚠️your_handle)  
+- Beecrowd → [`Jahid Hasan`](https://www.beecrowd.com.br/judge/en/profile/⚠️your_id)
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="mailto:⚠️your_email"><img src="https://img.shields.io/badge/Email-Contact_me-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/⚠️your_linkedin"><img src="https://img.shields.io/badge/LinkedIn-Jahid_Jubaer-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://jahidjubaer.github.io"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-0AFFEF?style=for-the-badge&logo=githubpages&logoColor=black"></a>
+</p>
+
+---
+
+> “Stay curious. Keep building. And never stop learning.” — **Jahid** 🔥
