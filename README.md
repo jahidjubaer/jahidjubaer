@@ -19,8 +19,8 @@
 ---
 
 ## 💡 About Me
-- 🎓 **CSE @ Metropolitan University, Sylhet** (Expected 2026)   
-- 💻 Love building websites, solving algorithms, learning modern tech  
+- 🎓 **CSE, Metropolitan University, Sylhet** (Expected July-2026)   
+- 💻 Love problem solving, building websites, learning algorithms, and learning modern tech  
 - 🛠️ Passionate about both **frontend creativity** and **backend logic**  
 
 ---
@@ -63,11 +63,11 @@
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="mailto:⚠️your_email"><img src="https://img.shields.io/badge/Email-Contact_me-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/⚠️your_linkedin"><img src="https://img.shields.io/badge/LinkedIn-Jahid_Jubaer-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="jahidjubaer17@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/jahidjubaer"><img src="https://img.shields.io/badge/LinkedIn-Jahid_Jubaer-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://jahidjubaer.github.io"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-0AFFEF?style=for-the-badge&logo=githubpages&logoColor=black"></a>
 </p>
 
 ---
 
-> “Stay curious. Keep building. And never stop learning.” — **Jahid** 🔥
+> “Stay curious. Keep building. And never stop learning.” — **Jahid Jubaer** 🔥
