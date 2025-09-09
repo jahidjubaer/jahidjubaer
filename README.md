@@ -4,7 +4,7 @@
 =========================================================== -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#0AFFEF">Jahid Jubaer</span></h1>
-<h3 align="center">CSE Student • Aspiring Full-Stack & AI-powered Developer • Problem Solver</h3>
+<h3 align="center">CSE Student • Aspiring Full-Stack & AI Developer • Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0AFFEF&center=true&vCenter=true&width=550&lines=Full+Stack+Learner;Problem+Solver;AI%2FML+Enthusiast;Always+Learning+New+Techs" alt="Typing animation" />
@@ -15,19 +15,16 @@
 ## 💡 About Me
 - 🎓 **CSE Student at Metropolitan University, Sylhet (’26)**  
 - 💻 Building skills in **MERN stack** & **AI-powered development**  
-- 🏆 Solved **250+ problems** (Codeforces, LeetCode, Beecrowd)   
+- 🏆 Solved **250+ problems** (Codeforces, LeetCode, Beecrowd)  
+- 🚀 Goal: Merge **Web Dev + AI/ML** for impactful projects  
 
 ---
 
 ## 🧰 Tech Stack
 <p align="center">
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css" height="50"/> <br/>
-  <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs" height="50"/> <br/>
-  <!-- Backend / DB -->
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" height="50"/> <br/>
-  <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,kaggle" height="50"/>
 </p>
 
@@ -44,14 +41,14 @@
 
 ## 🔗 Featured Projects
 <p align="center">
-  <a href="https://github.com/jahidjubaer/Payoo-mobile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahidjubaer&repo=Web_Hero&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/jahidjubaer/Assiut-University-Training-CF">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahidjubaer&repo=Assiut-University-Training-CF&theme=react&hide_border=true" />
+  <a href="https://github.com/jahidjubaer/Payoo-Mobile">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahidjubaer&repo=Payoo-Mobile&theme=react&hide_border=true" />
   </a>
   <a href="https://github.com/jahidjubaer/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahidjubaer&repo=Development&theme=react&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahidjubaer&repo=Portfolio&theme=react&hide_border=true" />
+  </a>
+  <a href="https://github.com/jahidjubaer/MBTI-ML-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahidjubaer&repo=MBTI-ML-Project&theme=react&hide_border=true" />
   </a>
 </p>
 
